@@ -1,12 +1,14 @@
 
 <img src="/pion.png" width="300">
 
-Python implementation for Raspberry Pi Zero W e-paper status
-display, [written up in my blog post](http://johnj.com/posts/e-paper-rpi-display/).
+A fork of eigenhombre's Python implementation for Raspberry Pi Zero W e-paper status
+display, [written up in their blog post](http://johnj.com/posts/e-paper-rpi-display/).
 
-*Nota bene*: I did not follow [my usual
-practices](http://johnj.com/posts/practices/) for this program, as it
-was a quick hobby project meant as a proof-of-concept.
+This fork seeks to add the current battery status to the display.
+
+Hardware Used:
+[Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
+[Pisugar 3 for Pi Zero](https://www.tindie.com/products/pisugar/pisugar-3-battery-for-raspberry-pi-zero/)
 
 # License
 
